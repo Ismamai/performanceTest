@@ -1,0 +1,90 @@
+370 34th St St,Saint Petersburg,Pinellas,Florida,33711,United States
+108 Washington St,Keokuk,Lee,Iowa,52632,United States
+590 N 2nd E,Mountain Home,Elmore,Idaho,83647,United States
+2725 W Mcdowell Rd,Phoenix,Maricopa,Arizona,85009,United States
+6312 S Yellowstone Hwy,Idaho Falls,Bonneville,Idaho,83402,United States
+201 Electronics Blvd Sw,Huntsville,Madison,Alabama,35824,United States
+1797 Lakewood Ter Se,Atlanta,Fulton,Georgia,30315,United States
+6585 Commerce Blvd,Rohnert Park,Sonoma,California,94928,United States
+7 W Darlington Ave,Kissimmee,Osceola,Florida,34741,United States
+305 Griffin Ave Sw,Eastman,Dodge,Georgia,31023,United States
+323 N Gilbert St,Danville,Vermilion,Illinois,61832,United States
+102 5th St N,Clanton,Chilton,Alabama,35045,United States
+4694 Alvarado Canyon Rd,San Diego,San Diego,California,92120,United States
+611 1st Ave N,Humboldt,Humboldt,Iowa,50548,United States
+Capitol Ave,Corydon,Harrison,Indiana,47112,United States
+3260 W New Haven Ave,Melbourne,Brevard,Florida,32904,United States
+85 S Beachview Dr,Jekyll Island,Glynn,Georgia,31527,United States
+1015 N Cahuenga Blvd,Los Angeles,Los Angeles,California,90038,United States
+3437 N 12th Ave,Pensacola,Escambia,Florida,32503,United States
+3100 Dodge St,Dubuque,Dubuque,Iowa,52003,United States
+550 N Edward St,Decatur,Macon,Illinois,62522,United States
+6401 N Lincoln Ave,Chicago,Cook,Illinois,60645,United States
+215 E Pikes Peak Ave,Colorado Springs,El Paso,Colorado,80903,United States
+615 W Markham St,Little Rock,Pulaski,Arkansas,72201,United States
+2181 Harlem Rd,Loves Park,Winnebago,Illinois,61111,United States
+307 E President St,Savannah,Chatham,Georgia,31401,United States
+511 Saint Johns Ave,Palatka,Putnam,Florida,32177,United States
+Lake Worth Rd,Lake Worth,Palm Beach,Florida,33467,United States
+926 E Park Ave,Tallahassee,Leon,Florida,32301,United States
+Hwy 8e E,Mena,Polk,Arkansas,71953,United States
+1200 Shreveport Barksdale Hwy,Shreveport,Caddo,Louisiana,71105,United States
+415 Center St,Ironton,Lawrence,Ohio,45638,United States
+100 S 2nd Ave,Alpena,Alpena,Michigan,49707,United States
+2308 Bienville Blvd,Ocean Springs,Jackson,Mississippi,39564,United States
+1110 25th Ave N,Fargo,Cass,North Dakota,58102,United States
+246 Griffing Ave,Riverhead,Suffolk,New York,11901,United States
+7700 N Council Rd,Oklahoma City,Oklahoma,Oklahoma,73132,United States
+905 Brooks Ave,Holland,Ottawa,Michigan,49423,United States
+1135 Kildaire Farm Rd,Cary,Wake,North Carolina,27511,United States
+125 N Emporia St,Wichita,Sedgwick,Kansas,67202,United States
+2101 Claremont Ave Ne,Albuquerque,Bernalillo,New Mexico,87107,United States
+Kirtland,San Juan,New Mexico,87417,United States
+112 W Plum,Doniphan,Hall,Nebraska,68832,United States
+2017 W Jackson St,Tupelo,Lee,Mississippi,38801,United States
+Westfield,Hampden,Massachusetts,01085,United States
+305 W Washington St,Brainerd,Crow Wing,Minnesota,56401,United States
+300 Broadacres Dr,Bloomfield,Essex,New Jersey,07003,United States
+154 Main St,Upton,Worcester,Massachusetts,01568,United States
+2401 Cleveland Rd W,Huron,Erie,Ohio,44839,United States
+North Conway,Carroll,New Hampshire,03860,United States
+4024 Merchant Rd,Fort Wayne,Allen,Indiana,46818,United States
+4013 Cameron St.,Lafayette,Lafayette,Louisiana,70506,United States
+66 Flint St,Asheville,Buncombe,North Carolina,28801,United States
+1312 W Lincoln Ave,Olivia,Renville,Minnesota,56277,United States
+1400 N Woodward Ave,Bloomfield Hills,Oakland,Michigan,48304,United States
+7000 Bass Lake Rd,Minneapolis,Hennepin,Minnesota,55428,United States
+20 Montana Ave,Laurel,Yellowstone,Montana,59044,United States
+3763 Scripps Dr,Las Vegas,Clark,Nevada,89103,United States
+222 S 10th St,Oakdale,Allen,Louisiana,71463,United States
+342 Wolverine Way,Sparks,Washoe,Nevada,89431,United States
+964 E Saint Francis St,Brownsville,Cameron,Texas,78520,United States
+825 W Main Ave,Brewster,Okanogan,Washington,98812,United States
+2929 W Kennewick Ave,Kennewick,Benton,Washington,99336,United States
+2552 Poplar Ave,Memphis,Shelby,Tennessee,38112,United States
+100 Mbc Dr,Shawano,Shawano,Wisconsin,54166,United States
+El Paso,El Paso,Texas,79937,United States
+480 W Pearl Ave,Jackson,Teton,Wyoming,83001,United States
+1810 Pioneer Ave,Cheyenne,Laramie,Wyoming,82001,United States
+300 Hampton St,Walterboro,Colleton,South Carolina,29488,United States
+401 S Main St,Greensburg,Westmoreland,Pennsylvania,15601,United States
+12500 Ne 10th Pl,Bellevue,King,Washington,98005,United States
+536 Grand Ave,Schofield,Marathon,Wisconsin,54476,United States
+1765 Sw Highway 97,Madras,Jefferson,Oregon,97741,United States
+112 E Pecan St,San Antonio,Bexar,Texas,78205,United States
+411 E Wisconsin Ave,Milwaukee,Milwaukee,Wisconsin,53202,United States
+2303 21st Ave S,Nashville,Davidson,Tennessee,37212,United States
+701 S 17th St,Philadelphia,Philadelphia,Pennsylvania,19146,United States
+700 W Highway 287,Lander,Fremont,Wyoming,82520,United States
+22343 Se Stark St,Gresham,Multnomah,Oregon,97030,United States
+12 E Broad St,Hazleton,Luzerne,Pennsylvania,18201,United States
+1180 Dora Hwy,Pulaski,Pulaski,Virginia,24301,United States
+501 S Johnstone Ave,Bartlesville,Washington,Oklahoma,74003,United States
+218 W Main St,Sparta,Monroe,Wisconsin,54656,United States
+645 Church St,Norfolk,Norfolk,Virginia,23510,United States
+200 W South St,Charlottesville,Charlottesville City,Virginia,22902,United States
+333 Andrew Ave,Salt Lake City,Salt Lake,Utah,84115,United States
+814 Blue Mound Rd,Fort Worth,Tarrant,Texas,76131,United States
+5300 Shawnee Rd,Alexandria,Fairfax,Virginia,22312,United States
+1808 2nd,Cheney,Spokane,Washington,99004,United States
+6747 Signat Dr,Houston,Harris,Texas,77041,United States

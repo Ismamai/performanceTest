@@ -1,0 +1,24 @@
+apply plugin: 'java'
+apply plugin:'application'
+
+mainClassName = "com.test.main.ProcessOperations"
+
+applicationDistribution.from(files("90_addresses.txt", "addresses.txt", "geocodingRequests.example", "README.md")){
+    into "bin"
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile 'com.google.maps:google-maps-services:0.1.15'
+    compile 'com.jamonapi:jamon:2.81'
+    compile 'org.slf4j:slf4j-api:1.7.15'
+    compile 'org.slf4j:slf4j-simple:1.7.21'
+    testCompile 'junit:junit:4.12'
+
+}
